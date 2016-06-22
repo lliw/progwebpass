@@ -1,0 +1,15 @@
+*{
+  border: thin black solid;
+  padding: 2%
+}
+body {
+  background-image: url("ufam.jpg");
+}
+p {
+  border: 5px black solid;
+  border-top-right-radius : 5em;
+  border-bottom-left-radius : 5em;
+  background-color : rgba(119,136,153,0.5);
+  box-shadow: 1px 1px 2px 2px gray;
+ 
+}
